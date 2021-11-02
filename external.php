@@ -45,7 +45,8 @@ mysqli_free_result($result);
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <script src="https://use.fontawesome.com/1731be311f.js"></script>
+    <!-- <script src="https://use.fontawesome.com/1731be311f.js"></script> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
     <style>
         .goog-te-gadget .goog-te-combo {
             margin: 4px 0 !important;

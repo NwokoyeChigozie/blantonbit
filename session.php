@@ -300,7 +300,8 @@ mysqli_free_result($result);
     <link href="scss/owl.theme.default.min.css" rel="stylesheet" />
     <link href="scss/style.css" rel="stylesheet" />
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <script src="https://use.fontawesome.com/1731be311f.js"></script>
+    <!-- <script src="https://use.fontawesome.com/1731be311f.js"></script> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 </head>
 
 <body class="header-fix fix-sidebar">
