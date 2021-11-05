@@ -242,6 +242,28 @@ mysqli_free_result($result);
                         </div>
                     </div>
                 </div>
+                <div class="footer-icon-area pt-40 pb-10">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                            <div class="footer-icon-wrapper mb-30">
+                                <div class="footer-icon-text">
+                                    <h4>Blanton Limited's Certificate of Incorporation</h4>
+                                    <span>Click <a href="./cert/hong_kong_cert_of_incorporation_blanton_limited.pdf">Certificate of Incoporation</a> to view our certificate</span>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 d-sm-none d-md-block">
+                            <div class="footer-icon-wrapper pl-80 mb-30">
+                            <div class="footer-icon-text">
+                                    <h4>Blanton Limited's Certificate of Insurance</h4>
+                                    <span>Click <a href="./cert/hong_kong_insurance_certificate_blanton_limited.pdf">Certificate of Insurance</a> to view our certificate</span>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="footer-bottom-area pt-20 pb-20">
                     <div class="row">
                         <div class="col-xl-12">
@@ -298,13 +320,13 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script> -->
     <!--End of Tawk.to Script-->
-    <div >
+    <!-- <div >
   <iframe src="./cert/hong_kong_cert_of_incorporation_blanton_limited.pdf" frameborder="1" scrolling="no" width="40%" height="200" align="left"> </iframe>
 </div>
 
 <div>
   <iframe src="./cert/hong_kong_insurance_certificate_blanton_limited.pdf" frameborder="1" scrolling="no" width="60%" height="200" align="left"></iframe>
-</div>
+</div> -->
 </body>
 
 </html>
